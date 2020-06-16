@@ -1,2 +1,5 @@
 # introducao-a-programacao-web
-Desafio 1-1
+
+ABAIXO ALGUMAS RESOLUÇÕES REFERENTE A IMC E CALCULO DE APOSENTADORIA
+
+
